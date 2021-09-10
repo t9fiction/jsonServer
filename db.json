@@ -1,0 +1,10 @@
+{
+  "posts": [
+	{ "id": 2, "title": "Mudassir", "Assistan": "typicode" },
+	{ "id": 1, "title": "Sohail", "Assistan": "typicode" }
+  ],
+  "Tokens": [
+    { "id": 1, "bchain": "Ethereum", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
